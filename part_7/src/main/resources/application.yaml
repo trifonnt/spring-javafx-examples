@@ -1,7 +1,6 @@
 spring:
     jmx: 
         enabled: false
-        
+
 javafx:
-    title: MyCoolApp
-    
+    title: MyCoolApp (Pt 7)

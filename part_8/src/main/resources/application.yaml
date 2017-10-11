@@ -1,7 +1,8 @@
 spring:
     jmx: 
         enabled: false
+
 javafx:
     stage:
         resizable: false
-    title: MyCoolApp
+    title: MyCoolApp (Pt 8)
